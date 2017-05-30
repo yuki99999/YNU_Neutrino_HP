@@ -52,7 +52,7 @@ p {
 #header {
   margin: 0;
   width: 800px;
-  height: 75px;
+  height: 50px;
   background-color: #ffffff;
   border-bottom: solid 3px #004080;
   background-image: url(img/header.jpg);
@@ -64,7 +64,7 @@ p {
   padding: 2px 0 0 10px;
   font-weight: normal;
   text-align: left;
-  font-size: 10px;
+  font-size: 14px;
   color: #666666;
 }
 
@@ -181,7 +181,7 @@ p {
   font-size: 12px;
   line-height: 180%;
   letter-spacing: 1px;
-  width: 590px;
+  width: 788px;
 }
 
 #contents h2 {
@@ -260,112 +260,6 @@ td#head {
 }
 
 
-/*---------- メニュー ----------*/
-
-#menu {
-  float: left;
-  margin: 0 0 15px 0;
-  padding: 0;
-  width: 170px;
-  bottom: 0;
-  text-align: left;
-  background-image: url(img/menu_back.gif);
-}
-
-#menu h2 {
-  margin: 0 0 2px 0;
-  padding: 9px 0 7px 12px;
-  line-height: 110%;
-  font-size: 12px;
-  color: #fffffc;
-  background-image: url(img/sidebar.gif);
-  background-repeat: no-repeat;
-}
-
-
-.menulist {
-  margin: 0 0 15px 0;
-  padding: 5px 2px 0px 5px;
-  width: 160px;
-  text-align: left;
-  background-image: url(img/menu_back.gif);
-}
-
-.menulist h2 {
-  margin: 0;
-  padding: 9px 0 7px 12px;
-  line-height: 110%;
-  font-size: 12px;
-  color: #fffffc;
-  background-image: url(img/sidebar.gif);
-  background-repeat: no-repeat;
-}
-
-.menulist a{
-  color: #004080;
-  display: block;
-  border-bottom: solid 1px #9f9f9f;
-  width: 138px;
-  padding: 7px 4px 4px 23px;
-  font-size: 12px;
-  line-height: 160%;
-  text-decoration: none;
-  background-image: url(img/side_menu_bg.gif);
-  background-repeat: no-repeat;
- }
-
-.menulist a:hover{
-  color: #005ebb;
-  text-decoration: underline;
-  background-image: url(img/side_menu_bg_hover.gif);
-  background-repeat: no-repeat;
-}
-
-
-.menu_free {
-  margin: 0 0 14px 0;
-  padding: 5px 2px 0px 5px;
-  width: 160px;
-  text-align: left;
-  letter-spacing: 1px;
-  background-image: url(img/menu_back.gif);
-}
-
-.menu_free h2 {
-  margin: 0;
-  padding: 9px 0 7px 12px;
-  line-height: 110%;
-  font-size: 12px;
-  color: #fffffc;
-  background-image: url(img/sidebar.gif);
-  background-repeat: no-repeat;
-}
-
-.menu_free a{
-  color: #004080;
-  width: 138px;
-  padding: 6px 0 5px 0;
-  font-size: 12px;
-  background-color: #f3f3f2;
- }
-
-.menu_free a:hover{
-  color: #005ebb;
-  background-color: #f3f3f2;
-}
-
-.menu_free p{
-  margin: 10px 4px 0 4px;
-  font-size: 12px;
-  background-color: #f3f3f2;
-  line-height: 180%;
-  letter-spacing: 1px;
-}
-
-#menu p {
-  margin: 10px 4px 0 4px;
-  line-height: 180%;
-}
 
 
 /*---------- フッター ----------*/

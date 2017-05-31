@@ -192,6 +192,7 @@ p {
   color: #004080;
   background-image: url(img/titlebar.gif);
   background-repeat: no-repeat;
+  background-size: 750px 35px;
 }
 
 #contents h3 {

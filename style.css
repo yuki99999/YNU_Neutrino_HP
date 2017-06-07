@@ -214,12 +214,12 @@ p {
 }
 
 #contents a {
-  font-size: 12px;
+  font-size: 14px;
   color: #004080;
 }
 
 #contents a:hover {
-  font-size: 14px;
+  font-size: 12px;
   color: #005ebb;
 }
 

@@ -41,6 +41,18 @@ a3は住所の英語表記の部分*/
 /*一番上の風景地図の寸法*/
 .picture_size{width:100%;}
 
+/*バスの表題とリンクとの間隔*/
+.bus_a1{margin-top:2em;}
+
+/*キャンパスマップの表題とキャンパスマップへのリンクとの間隔*/
+.campus_map_1{margin-top:4em; }
+
+/*キャンパスマップの大きさ*/
+.campus_map_size{width:70%;}
+
+/*キャンパスマップの並べ方*/
+.t1{margin-left:auto; margin-right:auto;}
+
 
 
 
@@ -50,8 +62,12 @@ a3は住所の英語表記の部分*/
 
 #train{margin-top:12em; text-align:center;}
 
+#bus{margin-top:8em; text-align:center; width:100%;}
+
+#campus_map{margin-top:10em; text-align:center;}
+
 #geo_graph{margin-top:8em; margin-bottom:10em;}
 
-#google_map{margin-top:12em; margin-bottom:6em; text-align:center;}
+#map{margin-top:12em; margin-bottom:6em; text-align:center;}
 
 

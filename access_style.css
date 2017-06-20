@@ -14,20 +14,20 @@
 .graph_size{width:70%; }
 
 /*google mapという表題とgoogle mapの間の間隔*/
-.g_map{margin-top:4em; }
+.g_map{margin-top:1em; }
 
 /*trainの部分の間隔調整に使う。a1は1.  三ツ沢上町駅の部分、　a2は 2. 和田町駅の部分
 a3は英語のフォントの部分 */
-.train_a1{margin-top:2em;}
+.train_a1{margin-top:1em;}
 
-.train_a2{margin-top:2em;}
+.train_a2{margin-top:1em;}
 
 .train_a3{margin-top:1em;}
 
 /*adress_telephoneの部分の間隔調整に使う。a1は電話という表題と電話番号を合わせた部分
 a2は表題を除いた所すなわち太字ではない部分で実際の住所と実際の電話番号の部分に該当。
 a3は住所の英語表記の部分*/
-.adress_a1{margin-top:3em;}
+.adress_a1{margin-top:1em;}
 
 .adress_a2{margin-top:1em;}
 
@@ -42,10 +42,10 @@ a3は住所の英語表記の部分*/
 .picture_size{width:100%;}
 
 /*バスの表題とリンクとの間隔*/
-.bus_a1{margin-top:2em;}
+.bus_a1{margin-top:1em;}
 
 /*キャンパスマップの表題とキャンパスマップへのリンクとの間隔*/
-.campus_map_1{margin-top:4em; }
+.campus_map_1{margin-top:1em; }
 
 /*キャンパスマップの大きさ*/
 .campus_map_size{width:70%;}
@@ -58,16 +58,16 @@ a3は住所の英語表記の部分*/
 
 #landscape{margin-top:2em;}
 
-#adress_telephone{margin-top:6em; text-align:center; }
+#adress_telephone{margin-top:1em; text-align:center; }
 
-#train{margin-top:12em; text-align:center;}
+#train{margin-top:3em; text-align:center;}
 
-#bus{margin-top:8em; text-align:center; width:100%;}
+#bus{margin-top:3em; text-align:center; width:100%;}
 
-#campus_map{margin-top:10em; text-align:center;}
+#campus_map{margin-top:3em; text-align:center;}
 
-#geo_graph{margin-top:8em; margin-bottom:10em;}
+#geo_graph{margin-top:3em; margin-bottom:1em;}
 
-#map{margin-top:12em; margin-bottom:6em; text-align:center;}
+#map{margin-top:3em; margin-bottom:6em; text-align:center;}
 
 
